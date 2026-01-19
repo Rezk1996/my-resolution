@@ -1,0 +1,93 @@
+🧠 DAILY ROUTINE CODING (4–5 JAM / HARI)
+
+Prinsip: Sedikit tapi setiap hari → hasil besar
+
+⏰ BLOK WAKTU HARIAN
+🟦 1. WARM-UP (30 MENIT)
+
+Tujuan: Mengaktifkan otak coding
+
+Baca ulang kode kemarin
+
+Refactor kecil (rename variable, clean method)
+
+Catat bug / TODO
+
+📌 Dilarang buka tutorial di fase ini
+
+🟨 2. DEEP WORK – BACKEND / FRONTEND (2 JAM)
+
+Fokus 1 topik saja per hari
+
+🔁 Pola harian:
+
+Senin–Rabu: Backend (Spring Boot)
+
+Kamis–Jumat: Frontend (React)
+
+Sabtu: Integrasi + Review
+
+Minggu: OFF / ringan
+
+Contoh backend:
+
+Hari ini: Product API
+
+Besok: Sales Transaction Logic
+
+Contoh frontend:
+
+Form produk
+
+Protected routes
+
+Dashboard cards
+
+📌 No multitasking, no YouTube
+
+🟩 3. BREAK AKTIF (15–30 MENIT)
+
+Jalan kaki
+
+Minum
+
+Jangan scroll medsos berlebihan
+
+🟧 4. IMPLEMENTASI & INTEGRASI (1 JAM)
+
+Tujuan: Kode harus jalan
+
+Integrasi frontend ↔ backend
+
+Test API (Postman)
+
+Fix error
+
+📌 Bug adalah tanda kamu belajar
+
+🟥 5. DOKUMENTASI & GIT (30 MENIT)
+
+WAJIB (ini pembeda junior vs profesional)
+
+Commit dengan pesan jelas
+Contoh:
+
+feat: add product CRUD with pagination
+
+
+Update README / TODO.md
+
+Catat pelajaran hari ini
+
+
+🧠 ATURAN EMAS
+
+❌ Jangan ganti stack
+
+❌ Jangan perfeksionis di awal
+
+❌ Jangan nunggu mood
+
+✅ Coding dulu, rapi belakangan
+
+✅ Konsistensi > durasi
