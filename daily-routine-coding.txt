@@ -80,6 +80,8 @@ Update README / TODO.md
 Catat pelajaran hari ini
 
 
+
+
 🧠 ATURAN EMAS
 
 ❌ Jangan ganti stack
@@ -91,3 +93,17 @@ Catat pelajaran hari ini
 ✅ Coding dulu, rapi belakangan
 
 ✅ Konsistensi > durasi
+
+
+
+
+
+🔥 TARGET 30 HARI
+
+Minggu 1: Auth + Product
+
+Minggu 2: Inventory + Sales
+
+Minggu 3: Dashboard + Report
+
+Minggu 4: Polishing + README
