@@ -78,3 +78,16 @@ feat: add product CRUD with pagination
 Update README / TODO.md
 
 Catat pelajaran hari ini
+
+
+🧠 ATURAN EMAS
+
+❌ Jangan ganti stack
+
+❌ Jangan perfeksionis di awal
+
+❌ Jangan nunggu mood
+
+✅ Coding dulu, rapi belakangan
+
+✅ Konsistensi > durasi
