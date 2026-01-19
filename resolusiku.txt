@@ -132,7 +132,20 @@ Frontend (React)
 
 Backend (Java Spring)
 
-🧠 Resolusi Pribadi (Paling Penting)
 
-Aku tidak belajar untuk terlihat pintar,
-tapi untuk menjadi developer yang bisa diandalkan.
+
+
+
+* Menentukan project portofolio yang paling strategis
+
+Retail Management System (Real-World Fullstack App)
+
+💡 Kenapa ini yang paling strategis?
+
+Relevan dengan banyak lowongan (retail, ERP, admin system)
+
+Cocok dengan Spring Boot + React
+
+Menunjukkan logika bisnis, bukan sekadar CRUD
+
+Selaras dengan pengalaman & minat kamu sebelumnya (retail & database)
