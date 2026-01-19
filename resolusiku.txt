@@ -131,3 +131,8 @@ Junior Fullstack
 Frontend (React)
 
 Backend (Java Spring)
+
+🧠 Resolusi Pribadi (Paling Penting)
+
+Aku tidak belajar untuk terlihat pintar,
+tapi untuk menjadi developer yang bisa diandalkan.
