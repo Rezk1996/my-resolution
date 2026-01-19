@@ -1,0 +1,133 @@
+1️⃣ Resolusi Skill Teknis
+✅ Frontend (React & JavaScript)
+
+Menguasai React modern:
+
+Hooks (useEffect, useMemo, useCallback)
+
+State management (Context → Redux Toolkit)
+
+React Router (nested, params, protected routes)
+
+Menulis clean code & reusable components
+
+Mampu slicing UI dari Figma ke React
+
+Performance basics (memoization, lazy loading)
+
+🎯 Target:
+
+Bisa membuat dashboard kompleks tanpa tutorial.
+
+✅ Backend (Spring Boot – Java)
+
+Menguasai:
+
+REST API design (clean endpoint & response)
+
+Spring Data JPA & query optimization
+
+Validation, pagination, sorting
+
+Authentication & Authorization (JWT)
+
+Error handling yang rapi (global exception)
+
+Logging & basic security
+
+🎯 Target:
+
+Bisa membangun backend production-ready.
+
+✅ Database & System Thinking
+
+Mendesain database normal & scalable
+
+Relasi kompleks (one-to-many, many-to-many)
+
+Transaction & consistency
+
+Query yang efisien
+
+🎯 Target:
+
+Bisa menjelaskan kenapa struktur database dibuat seperti itu.
+
+2️⃣ Resolusi Portofolio (WAJIB)
+🧩 Project Utama (Minimal 2)
+
+Fullstack App (React + Spring Boot)
+
+Auth (login/register)
+
+Role (admin/user)
+
+CRUD kompleks
+
+Pagination, search, filter
+
+Dashboard
+
+Mini SaaS / Business Case
+
+Retail / Inventory / Finance / HR
+
+Fokus ke real-world problem
+
+🎯 Target:
+
+Portofolio bukan sekadar CRUD, tapi punya cerita & solusi.
+
+3️⃣ Resolusi Profesional
+
+Menggunakan Git dengan benar:
+
+Branching
+
+Commit message jelas
+
+Menulis README profesional
+
+Mampu menjelaskan project:
+
+Arsitektur
+
+Flow data
+
+Alasan teknis
+
+🎯 Target:
+
+Siap technical interview tanpa gugup.
+
+4️⃣ Resolusi Karier & Mental
+
+Konsisten ngoding minimal 2–4 jam/hari
+
+Tidak lompat stack (fokus React + Spring)
+
+Belajar dari error, bukan menyerah
+
+Tidak membandingkan diri dengan orang lain
+
+🎯 Target:
+
+Disiplin > Motivasi
+
+5️⃣ Resolusi Output Nyata
+
+📌 Dalam 12 bulan:
+
+✅ 2–3 project solid
+
+✅ GitHub aktif & rapi
+
+✅ CV tech-oriented
+
+✅ Siap melamar:
+
+Junior Fullstack
+
+Frontend (React)
+
+Backend (Java Spring)
